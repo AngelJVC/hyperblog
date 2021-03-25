@@ -1,6 +1,13 @@
-body {
-    background-color: bisque;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: darkred;
-}
+    body {
+        background-color: bisque;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        color: darkred;
+    }
+    
+    .container {
+        margin: 0 auto;
+        width: 70%;
+        border: solid 2px black;
+        text-align: center;
+    }
