@@ -11,3 +11,7 @@
         border: solid 2px black;
         text-align: center;
     }
+    
+    .contenido {
+        font-family: 'Courier New', Courier, monospace;
+    }
