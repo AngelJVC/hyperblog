@@ -25,7 +25,19 @@
         width: 50%;
         text-align: right;
         font-weight: 700;
-        font-size: x-large
+        font-size: x-large;
+        background-color: rgb(13, 4, 97);
+        border-radius: 12px;
+        padding: 10px;
+    }
+    
+    .logo:hover {
+        background-color: rgb(83, 68, 219);
+        border: solid 2px black;
+        border-radius: 10px;
+        padding: 8px;
+        color: black;
+        box-shadow: 9px 2px 25px 0px rgb(43, 43, 48);
     }
     
     .titulo-logo {
