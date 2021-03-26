@@ -1,6 +1,5 @@
     body {
         background-color: bisque;
-        text-align: center;
         font-family: Arial, Helvetica, sans-serif;
         color: darkred;
     }
@@ -9,5 +8,26 @@
         margin: 0 auto;
         width: 70%;
         border: solid 2px black;
-        text-align: center;
+    }
+    
+    #cabecera {
+        background-color: blue;
+        padding: 12px;
+        box-shadow: 9px 5px 20px 0px rgb(0, 0, 0, 0.5)
+    }
+    
+    .top {
+        color: whitesmoke;
+        font-weight: bold;
+    }
+    
+    .logo {
+        width: 50%;
+        text-align: right;
+        font-weight: 700;
+        font-size: x-large
+    }
+    
+    .titulo-logo {
+        margin-left: 25%;
     }
