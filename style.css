@@ -1,7 +1,7 @@
     body {
         background-color: bisque;
         font-family: Arial, Helvetica, sans-serif;
-        color: darkred;
+        color: blue;
     }
     
     .container {
@@ -11,7 +11,7 @@
     }
     
     #cabecera {
-        background-color: blue;
+        background-color: rgb(80, 80, 87);
         padding: 12px;
         box-shadow: 9px 5px 20px 0px rgb(0, 0, 0, 0.5)
     }
