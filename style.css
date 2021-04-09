@@ -1,18 +1,24 @@
         body {
             background-color: rgb(116, 113, 110);
             font-family: Arial, Helvetica, sans-serif;
-            color: blue;
+            color: rgb(19, 19, 26);
+        }
+        
+        .principal {
+            width: 85%;
         }
         
         .container {
             margin: 0 auto;
-            width: 70%;
+            width: 900px;
             border: solid 2px rgba(0, 0, 0, 0.527);
             background-color: rgba(255, 255, 255, 0.925);
+            display: flex;
         }
         
         #cabecera {
             background-color: rgb(139, 179, 190);
+            width: 97%;
             padding: 12px;
             box-shadow: 9px 5px 20px 0px rgb(0, 0, 0, 0.5);
             color: black;
@@ -59,4 +65,10 @@
             color: black;
             font-weight: bold;
             text-align: center;
+        }
+        
+        aside {
+            width: 15%;
+            height: 55vh;
+            background-color: rgb(45, 87, 3);
         }
