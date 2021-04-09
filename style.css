@@ -43,3 +43,16 @@
     .titulo-logo {
         margin-left: 25%;
     }
+    
+    footer {
+        background-color: rgb(114, 107, 107);
+        color: chartreuse;
+        width: 90%;
+        margin: 0 auto;
+        height: 30px;
+        padding-top: 15px;
+    }
+    
+    footer div {
+        text-align: center;
+    }
