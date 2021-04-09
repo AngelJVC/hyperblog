@@ -45,14 +45,30 @@
     }
     
     footer {
-        background-color: rgb(114, 107, 107);
+        background-color: rgb(12, 10, 10);
         color: chartreuse;
-        width: 90%;
+        width: 70%;
         margin: 0 auto;
         height: 30px;
         padding-top: 15px;
     }
     
     footer div {
-        text-align: center;
+        padding: 0 11px;
+        font-weight: bold;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+    }
+    
+    footer .izquierda {
+        color: #fff;
+        font-size: 10px;
+    }
+    
+    footer .derecha {
+        color: rgb(161, 206, 116);
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        text-decoration: none;
     }
