@@ -45,12 +45,13 @@
     }
     
     footer {
-        background-color: rgb(12, 10, 10);
-        color: chartreuse;
+        background-color: rgba(21, 99, 6, 0.925);
+        color: rgb(146, 250, 42);
         width: 70%;
         margin: 0 auto;
-        height: 30px;
+        height: 60px;
         padding-top: 15px;
+        box-shadow: 3px 4px 70px 0.5px rgba(96, 248, 96, 0.52);
     }
     
     footer div {
@@ -67,7 +68,7 @@
     }
     
     footer .derecha {
-        color: rgb(161, 206, 116);
+        color: rgb(201, 238, 164);
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 900;
         text-decoration: none;
