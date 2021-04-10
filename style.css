@@ -69,6 +69,39 @@
         
         aside {
             width: 15%;
+            margin-left: 5px;
             height: 55vh;
             background-color: rgb(45, 87, 3);
+        }
+        
+        aside .aside-main {
+            height: 100%;
+        }
+        
+        aside .espacio1,
+        .espacio2,
+        .espacio3 {
+            font-size: 11px;
+        }
+        
+        aside .espacio1 h1,
+        .espacio2 h1,
+        .espacio3 h1 {
+            text-align: center;
+            margin-bottom: 2px;
+        }
+        
+        aside .espacio1 article,
+        .espacio2 article,
+        .espacio3 article {
+            font-size: 14px;
+            margin: 0 0 0 3px;
+        }
+        
+        aside .aside-content {
+            margin: 0 auto;
+            width: 80%;
+            height: 32.5%;
+            margin-top: 5px;
+            background-color: rgb(162, 240, 162);
         }
