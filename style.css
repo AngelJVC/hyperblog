@@ -6,6 +6,7 @@ body {
 
 .principal {
     width: 85%;
+    height: auto;
 }
 
 .container {
@@ -70,7 +71,7 @@ body {
 aside {
     width: 15%;
     margin-left: 5px;
-    height: 55vh;
+    height: auto;
     background-color: rgb(45, 87, 3);
 }
 
@@ -101,7 +102,33 @@ aside .espacio1 article,
 aside .aside-content {
     margin: 0 auto;
     width: 80%;
-    height: 32.5%;
+    height: 30.5%;
     margin-top: 5px;
-    background-color: rgb(162, 240, 162);
+    background-color: rgb(204, 253, 204);
+}
+
+.comentarios {
+    width: 95%;
+    background-color: rgb(159, 236, 107);
+    margin: 0 auto;
+    height: 80px;
+    align-items: center;
+}
+
+.comentarios-title {
+    position: absolute;
+    width: 20%;
+    background-color: rgb(11, 128, 46);
+    height: 30px;
+    border-radius: 5px;
+    right: 45%;
+    top: 80%;
+    color: #fff;
+    text-align: center;
+}
+
+.comentarios-cuadro {
+    margin: 13px 0px 0px 0px;
+    width: 98%;
+    height: 50px;
 }
