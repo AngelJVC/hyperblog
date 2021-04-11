@@ -132,3 +132,10 @@ aside .aside-content {
     width: 98%;
     height: 50px;
 }
+
+footer {
+    width: 90%;
+    height: 60px;
+    margin: 0 auto;
+    background-color: rgb(36, 85, 4);
+}
